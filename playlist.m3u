@@ -1,411 +1,525 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="" tvg-name="CCTV1综合" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV1.png?raw=true" group-title="央视",CCTV1综合
-http://218.1.217.213:9999/udp/239.45.3.145:5140
-#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="CCTV2财经" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV2.png?raw=true" group-title="央视",CCTV2财经
-http://218.1.217.213:9999/udp/239.45.3.208:5140
-#EXTINF:-1 tvg-chno="3" tvg-id="" tvg-name="CCTV3综艺" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV3.png?raw=true" group-title="央视",CCTV3综艺
-http://218.1.217.213:9999/udp/239.45.1.68:5140
-#EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV4.png?raw=true" group-title="央视",CCTV4中文国际
-http://218.1.217.213:9999/udp/239.45.0.2:5140
-#EXTINF:-1 tvg-chno="5" tvg-id="" tvg-name="CCTV5体育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV5.png?raw=true" group-title="央视",CCTV5体育
-http://218.1.217.213:9999/udp/239.45.1.69:5140
-#EXTINF:-1 tvg-chno="6" tvg-id="" tvg-name="CCTV6电影" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV6.png?raw=true" group-title="央视",CCTV6电影
-http://218.1.217.213:9999/udp/239.45.1.70:5140
-#EXTINF:-1 tvg-chno="7" tvg-id="" tvg-name="CCTV7国防军事" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV7.png?raw=true" group-title="央视",CCTV7国防军事
-http://218.1.217.213:9999/udp/239.45.3.56:5140
-#EXTINF:-1 tvg-chno="8" tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV8.png?raw=true" group-title="央视",CCTV8电视剧
-http://218.1.217.213:9999/udp/239.45.1.71:5140
-#EXTINF:-1 tvg-chno="9" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV9.png?raw=true" group-title="央视",CCTV9纪录
-http://60.183.71.251:8088/udp/233.50.200.23:5140
-#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="CCTV10科教" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV10.png?raw=true" group-title="央视",CCTV10科教
-http://218.1.217.213:9999/udp/239.45.3.8:5140
-#EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV11.png?raw=true" group-title="央视",CCTV11戏曲
-http://218.1.217.213:9999/udp/239.45.1.196:5140
-#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV12.png?raw=true" group-title="央视",CCTV12社会与法
-http://218.1.217.213:9999/udp/239.45.3.10:5140
-#EXTINF:-1 tvg-chno="13" tvg-id="" tvg-name="CCTV13新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV13.png?raw=true" group-title="央视",CCTV13新闻
-http://218.1.217.213:9999/udp/239.45.1.198:5140
-#EXTINF:-1 tvg-chno="14" tvg-id="" tvg-name="CCTV14少儿" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV14.png?raw=true" group-title="央视",CCTV14少儿
-http://218.1.217.213:9999/udp/239.45.3.23:5140
-#EXTINF:-1 tvg-chno="15" tvg-id="" tvg-name="CCTV15音乐" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV15.png?raw=true" group-title="央视",CCTV15音乐
-http://218.1.217.213:9999/udp/239.45.1.200:5140
-#EXTINF:-1 tvg-chno="16" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV16.png?raw=true" group-title="央视",CCTV16奥林匹克
-http://113.223.16.11:65000/udp/239.76.246.98:1234
-#EXTINF:-1 tvg-chno="17" tvg-id="" tvg-name="CCTV17农村农业" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV17.png?raw=true" group-title="央视",CCTV-17农村农业
-http://218.1.217.213:9999/udp/239.45.3.52:5140
-#EXTINF:-1 tvg-chno="18" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV5+.png?raw=true" group-title="央视",CCTV-5+
-http://113.223.16.11:65000/udp/239.76.246.168:1234
-#EXTINF:-1 tvg-chno="19" tvg-id="" tvg-name="CGTN" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CGTN.png?raw=true" group-title="央视",CGTN
-http://113.223.16.11:65000/udp/239.76.245.66:1234
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CGTN记录" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CGTNDoc.png?raw=true" group-title="央视",CGTN记录
-http://113.223.16.11:65000/udp/239.76.245.67:1234
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV1.png?raw=true" group-title="央视备用",CCTV1-综合
-http://123.159.36.95:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV2.png?raw=true" group-title="央视备用",CCTV2-财经
-http://123.159.36.95:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV3.png?raw=true" group-title="央视备用",CCTV3-综艺
-http://123.159.36.95:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV4.png?raw=true" group-title="央视备用",CCTV4-国际
-http://123.159.36.95:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV5.png?raw=true" group-title="央视备用",CCTV5-体育
-http://123.159.36.95:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV6.png?raw=true" group-title="央视备用",CCTV6-电影
-http://123.159.36.95:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV7.png?raw=true" group-title="央视备用",CCTV7-军农
-http://123.159.36.95:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV8.png?raw=true" group-title="央视备用",CCTV8-电视剧
-http://123.159.36.95:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV9.png?raw=true" group-title="央视备用",CCTV9-纪录
-http://123.159.36.95:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV10.png?raw=true" group-title="央视备用",CCTV10-科教
-http://123.159.36.95:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV11.png?raw=true" group-title="央视备用",CCTV11-戏曲
-http://123.159.36.95:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV12.png?raw=true" group-title="央视备用",CCTV12-社会与法
-http://123.159.36.95:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV13.png?raw=true" group-title="央视备用",CCTV13-新闻
-http://123.159.36.95:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV14.png?raw=true" group-title="央视备用",CCTV14-少儿
-http://123.159.36.95:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV15.png?raw=true" group-title="央视备用",CCTV15-音乐
-http://123.159.36.95:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东方卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",东方卫视
-http://218.1.217.213:9999/udp/239.45.3.146:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="浙江卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",浙江卫视
-http://218.1.217.213:9999/udp/239.45.3.178:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="江苏卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",江苏卫视
-http://218.1.217.213:9999/udp/239.45.3.177:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",湖南卫视
-http://218.1.217.213:9999/udp/239.45.3.228:5140
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV1" tvg-name="CCTV1综合" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV1.png?raw=true" group-title="央视",CCTV1综合
+http://php.tech-miao.top/01央视主线路.php?id=cctv-1
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV2" tvg-name="CCTV2财经" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV2.png?raw=true" group-title="央视",CCTV2财经
+http://php.tech-miao.top/01央视主线路.php?id=cctv-2
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV3" tvg-name="CCTV3综艺" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV3.png?raw=true" group-title="央视",CCTV3综艺
+http://php.tech-miao.top/01央视主线路.php?id=cctv-3
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV4" tvg-name="CCTV4国际" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV4.png?raw=true" group-title="央视",CCTV4国际
+http://php.tech-miao.top/01央视主线路.php?id=cctv-4
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV5" tvg-name="CCTV5体育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV5.png?raw=true" group-title="央视",CCTV5体育
+http://php.tech-miao.top/01央视主线路.php?id=cctv-5
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV6" tvg-name="CCTV6电影" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV6.png?raw=true" group-title="央视",CCTV6电影
+http://php.tech-miao.top/01央视主线路.php?id=cctv-6
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV7" tvg-name="CCTV7国防军事" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV7.png?raw=true" group-title="央视",CCTV7国防军事
+http://php.tech-miao.top/01央视主线路.php?id=cctv-7
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV8" tvg-name="CCTV8电视剧" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV8.png?raw=true" group-title="央视",CCTV8电视剧
+http://php.tech-miao.top/01央视主线路.php?id=cctv-8
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV9" tvg-name="CCTV9纪录" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV9.png?raw=true" group-title="央视",CCTV9纪录
+http://php.tech-miao.top/01央视主线路.php?id=cctv-9
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV10" tvg-name="CCTV10科教" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV10.png?raw=true" group-title="央视",CCTV10科教
+http://php.tech-miao.top/01央视主线路.php?id=cctv-10
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV11" tvg-name="CCTV11戏曲" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV11.png?raw=true" group-title="央视",CCTV11戏曲
+http://php.tech-miao.top/01央视主线路.php?id=cctv-11
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV12" tvg-name="CCTV12社会与法" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV12.png?raw=true" group-title="央视",CCTV12社会与法
+http://php.tech-miao.top/01央视主线路.php?id=cctv-12
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV13" tvg-name="CCTV13新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV13.png?raw=true" group-title="央视",CCTV13新闻
+http://php.tech-miao.top/01央视主线路.php?id=cctv-13
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV14" tvg-name="CCTV14少儿" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV14.png?raw=true" group-title="央视",CCTV14少儿
+http://php.tech-miao.top/01央视主线路.php?id=cctv-14
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV15" tvg-name="CCTV15音乐" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV15.png?raw=true" group-title="央视",CCTV15音乐
+http://php.tech-miao.top/01央视主线路.php?id=cctv-15
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV16" tvg-name="CCTV16奥林匹克" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV16.png?raw=true" group-title="央视",CCTV16奥林匹克
+http://php.tech-miao.top/01央视主线路.php?id=cctv-16
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV17" tvg-name="CCTV17农业农村" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV17.png?raw=true" group-title="央视",CCTV17农业农村
+http://php.tech-miao.top/01央视主线路.php?id=cctv-17
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV5" tvg-name="CCTV5+" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV5+.png?raw=true" group-title="央视",CCTV5+
+http://php.tech-miao.top/01央视主线路.php?id=cctv-5plus
+#EXTINF:-1 tvg-chno="" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CGTN.png?raw=true" group-title="央视",CGTN
+http://php.tech-miao.top/01央视主线路.php?id=cctv-cgtn
+#EXTINF:-1 tvg-chno="" tvg-id="CGTN" tvg-name="CGTN纪录" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CGTN%E7%BA%AA%E5%BD%95.png?raw=true" group-title="央视",CGTN纪录
+http://php.tech-miao.top/01央视主线路.php?id=cctv-cgtndoc
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV风云足球" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png?raw=true" group-title="央视",CCTV风云足球
+http://php.tech-miao.top/01央视主线路.php?id=cctv-fengyunzq
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV风云音乐" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png?raw=true" group-title="央视",CCTV风云音乐
+http://php.tech-miao.top/01央视主线路.php?id=cctv-fengyunyy
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV风云剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png?raw=true" group-title="央视",CCTV风云剧场
+http://php.tech-miao.top/01央视主线路.php?id=cctv-fengyunjc
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV第一剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png?raw=true" group-title="央视",CCTV第一剧场
+http://php.tech-miao.top/01央视主线路.php?id=cctv-diyijc
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV怀旧剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png?raw=true" group-title="央视",CCTV怀旧剧场
+http://php.tech-miao.top/01央视主线路.php?id=cctv-huaijiujc
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV世界地理" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png?raw=true" group-title="央视",CCTV世界地理
+http://php.tech-miao.top/01央视主线路.php?id=cctv-shijiedili
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV兵器科技" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png?raw=true" group-title="央视",CCTV兵器科技
+http://php.tech-miao.top/01央视主线路.php?id=cctv-bingqikeji
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV央视台球" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png?raw=true" group-title="央视",CCTV央视台球
+http://php.tech-miao.top/01央视主线路.php?id=cctv-yangshitq
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV高尔夫网球" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A4%AE%E8%A7%86%E9%AB%98%E7%BD%91.png?raw=true" group-title="央视",CCTV高尔夫网球
+http://php.tech-miao.top/01央视主线路.php?id=cctv-golftennis
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png?raw=true" group-title="央视",CCTV女性时尚
+http://php.tech-miao.top/01央视主线路.php?id=cctv-nvxingss
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV央视文化精品" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png?raw=true" group-title="央视",CCTV央视文化精品
+http://php.tech-miao.top/01央视主线路.php?id=cctv-wenhuajp
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV1" tvg-name="CCTV1综合" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV1.png?raw=true" group-title="央视（备）",CCTV1综合（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-1-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV2" tvg-name="CCTV2财经" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV2.png?raw=true" group-title="央视（备）",CCTV2财经（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-2-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV3" tvg-name="CCTV3综艺" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV3.png?raw=true" group-title="央视（备）",CCTV3综艺（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-3-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV4" tvg-name="CCTV4国际" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV4.png?raw=true" group-title="央视（备）",CCTV4国际（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-4-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV5" tvg-name="CCTV5体育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV5.png?raw=true" group-title="央视（备）",CCTV5体育（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-5-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV6" tvg-name="CCTV6电影" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV6.png?raw=true" group-title="央视（备）",CCTV6电影（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-6-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV7" tvg-name="CCTV7国防军事" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV7.png?raw=true" group-title="央视（备）",CCTV7国防军事（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-7-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV8" tvg-name="CCTV8电视剧" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV8.png?raw=true" group-title="央视（备）",CCTV8电视剧（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-8-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV9" tvg-name="CCTV9纪录" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV9.png?raw=true" group-title="央视（备）",CCTV9纪录（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-9-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV10" tvg-name="CCTV10科教" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV10.png?raw=true" group-title="央视（备）",CCTV10科教（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-10-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV11" tvg-name="CCTV11戏曲" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV11.png?raw=true" group-title="央视（备）",CCTV11戏曲（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-11-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV12" tvg-name="CCTV12社会与法" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV12.png?raw=true" group-title="央视（备）",CCTV12社会与法（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-12-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV13" tvg-name="CCTV13新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV13.png?raw=true" group-title="央视（备）",CCTV13新闻（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-13-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV14" tvg-name="CCTV14少儿" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV14.png?raw=true" group-title="央视（备）",CCTV14少儿（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-14-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV15" tvg-name="CCTV15音乐" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV15.png?raw=true" group-title="央视（备）",CCTV15音乐（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-15-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV16" tvg-name="CCTV16奥林匹克" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV16.png?raw=true" group-title="央视（备）",CCTV16奥林匹克（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-16-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV17" tvg-name="CCTV17农业农村" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV17.png?raw=true" group-title="央视（备）",CCTV17农业农村（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-17-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CCTV5" tvg-name="CCTV5+" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV5+.png?raw=true" group-title="央视（备）",CCTV5+（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-5plus-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CGTN.png?raw=true" group-title="央视（备）",CGTN（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-cgtn-bak
+#EXTINF:-1 tvg-chno="" tvg-id="CGTN" tvg-name="CGTN纪录" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CGTN%E7%BA%AA%E5%BD%95.png?raw=true" group-title="央视（备）",CGTN纪录（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-cgtndoc-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV风云足球" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png?raw=true" group-title="央视（备）",CCTV风云足球（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-fengyunzq-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV风云音乐" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png?raw=true" group-title="央视（备）",CCTV风云音乐（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-fengyunyy-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV风云剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png?raw=true" group-title="央视（备）",CCTV风云剧场（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-fengyunjc-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV第一剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png?raw=true" group-title="央视（备）",CCTV第一剧场（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-diyijc-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV怀旧剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png?raw=true" group-title="央视（备）",CCTV怀旧剧场（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-huaijiujc-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV世界地理" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png?raw=true" group-title="央视（备）",CCTV世界地理（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-shijiedili-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV兵器科技" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png?raw=true" group-title="央视（备）",CCTV兵器科技（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-bingqikeji-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV央视台球" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png?raw=true" group-title="央视（备）",CCTV央视台球（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-yangshitq-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV高尔夫网球" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A4%AE%E8%A7%86%E9%AB%98%E7%BD%91.png?raw=true" group-title="央视（备）",CCTV高尔夫网球（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-golftennis-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png?raw=true" group-title="央视（备）",CCTV女性时尚（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-nvxingss-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV央视文化精品" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png?raw=true" group-title="央视（备）",CCTV央视文化精品（备）
+http://php.tech-miao.top/02央视备用线路.php?id=cctv-wenhuajp-bak
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="北京卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",北京卫视
-http://218.1.217.213:9999/udp/239.45.3.229:5140
+http://php.tech-miao.top/03卫视主线路.php?id=beijing
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东方卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",东方卫视
+http://php.tech-miao.top/03卫视主线路.php?id=dongfang
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广东卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",广东卫视
-http://218.1.217.213:9999/udp/239.45.3.230:5140
+http://php.tech-miao.top/03卫视主线路.php?id=guangdong
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="深圳卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",深圳卫视
-http://218.1.217.213:9999/udp/239.45.3.231:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="山东卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",山东卫视
-http://218.1.217.213:9999/udp/239.45.3.238:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖北卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",湖北卫视
-http://218.1.217.213:9999/udp/239.45.3.239:5140
+http://php.tech-miao.top/03卫视主线路.php?id=shenzhen
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="江苏卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",江苏卫视
+http://php.tech-miao.top/03卫视主线路.php?id=jiangsu
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="浙江卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",浙江卫视
+http://php.tech-miao.top/03卫视主线路.php?id=zhejiang
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="安徽卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",安徽卫视
-http://218.1.217.213:9999/udp/239.45.1.120:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",东南卫视
-http://218.1.217.213:9999/udp/239.45.1.121:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="江西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",江西卫视
-http://218.1.217.213:9999/udp/239.45.1.122:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",辽宁卫视
-http://218.1.217.213:9999/udp/239.45.1.123:5140
+http://php.tech-miao.top/03卫视主线路.php?id=anhui
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="天津卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",天津卫视
-http://218.1.217.213:9999/udp/239.45.1.124:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="四川卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",四川卫视
-http://218.1.217.213:9999/udp/239.45.1.83:5140
+http://php.tech-miao.top/03卫视主线路.php?id=tianjin
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="重庆卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",重庆卫视
-http://218.1.217.213:9999/udp/239.45.1.84:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="贵州卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",贵州卫视
-http://218.1.217.213:9999/udp/239.45.1.80:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="海南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",海南卫视
-http://218.1.217.213:9999/udp/239.45.1.81:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="河北卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",河北卫视
-http://218.1.217.213:9999/udp/239.45.1.44:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",宁夏卫视
-http://218.1.217.213:9999/udp/239.45.1.213:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",广西卫视
-http://218.1.217.213:9999/udp/239.45.0.5:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="吉林卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",吉林卫视
-http://218.1.217.213:9999/udp/239.45.0.6:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="山西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",山西卫视
-http://218.1.217.213:9999/udp/239.45.1.229:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="青海卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",青海卫视
-http://218.1.217.213:9999/udp/239.45.1.230:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="西藏卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",西藏卫视
-http://218.1.217.213:9999/udp/239.45.1.231:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="陕西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",陕西卫视
-http://218.1.217.213:9999/udp/239.45.1.232:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="云南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",云南卫视
-http://218.1.217.213:9999/udp/239.45.0.4:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",甘肃卫视
-http://218.1.217.213:9999/udp/239.45.1.234:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",内蒙古卫视
-http://218.1.217.213:9999/udp/239.45.1.238:5140
+http://php.tech-miao.top/03卫视主线路.php?id=chongqing
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",湖南卫视
+http://php.tech-miao.top/03卫视主线路.php?id=hunan
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖北卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",湖北卫视
+http://php.tech-miao.top/03卫视主线路.php?id=hubei
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="河南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",河南卫视
-http://218.1.217.213:9999/udp/239.45.0.3:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="新疆卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",新疆卫视
-http://218.1.217.213:9999/udp/239.45.1.116:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="兵团卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",兵团卫视
-http://218.1.217.213:9999/udp/239.45.1.117:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="三沙卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",三沙卫视
-http://218.1.217.213:9999/udp/239.45.1.82:5140
+http://php.tech-miao.top/03卫视主线路.php?id=henan
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="河北卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",河北卫视
+http://php.tech-miao.top/03卫视主线路.php?id=hebei
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="山东卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",山东卫视
+http://php.tech-miao.top/03卫视主线路.php?id=shandong
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="山西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",山西卫视
+http://php.tech-miao.top/03卫视主线路.php?id=shanxi
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="陕西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",陕西卫视
+http://php.tech-miao.top/03卫视主线路.php?id=shaanxi
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",辽宁卫视
+http://php.tech-miao.top/03卫视主线路.php?id=liaoning
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="吉林卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",吉林卫视
+http://php.tech-miao.top/03卫视主线路.php?id=jilin
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",黑龙江卫视
-http://218.1.217.213:9999/udp/239.45.3.232:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="中国教育-1" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png?raw=true" group-title="卫视",中国教育-1
-http://218.1.217.213:9999/udp/239.45.1.125:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="中国教育-2" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png?raw=true" group-title="卫视",中国教育-2
-http://218.1.217.213:9999/udp/239.45.1.52:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="中国教育-4" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png?raw=true" group-title="卫视",中国教育-4
-http://218.1.217.213:9999/udp/239.45.1.50:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",东南卫视
-http://123.159.36.95:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",东方卫视
-http://123.159.36.95:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",云南卫视
-http://123.159.36.95:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",内蒙古卫视
-http://123.159.36.95:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",北京卫视
-http://123.159.36.95:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",吉林卫视
-http://123.159.36.95:85/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",四川卫视
-http://123.159.36.95:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",天津卫视
-http://123.159.36.95:85/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",安徽卫视
-http://123.159.36.95:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",山东卫视
-http://123.159.36.95:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",山西卫视
-http://123.159.36.95:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",广东卫视
-http://123.159.36.95:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",广西卫视
-http://123.159.36.95:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",江苏卫视
-http://123.159.36.95:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",江西卫视
-http://123.159.36.95:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",河北卫视
-http://123.159.36.95:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",河南卫视
-http://123.159.36.95:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",浙江卫视
-http://123.159.36.95:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",深圳卫视
-http://115.63.83.48:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",湖北卫视
-http://123.159.36.95:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",湖南卫视
-http://123.159.36.95:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",甘肃卫视
-http://123.159.36.95:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",贵州卫视
-http://123.159.36.95:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",辽宁卫视
-http://123.159.36.95:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",重庆卫视
-http://123.159.36.95:85/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",陕西卫视
-http://123.159.36.95:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",青海卫视
-http://123.159.36.95:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="卫视备用",黑龙江卫视
-http://123.159.36.95:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="北京卫视4K" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png?raw=true" group-title="北京",北京卫视4K
-http://218.1.217.213:9999/udp/239.45.3.123:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png?raw=true" group-title="北京",北京新闻
-http://115.171.216.141:4000/udp/225.1.8.83:8000
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="北京文艺" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA.png?raw=true" group-title="北京",北京文艺
-http://115.171.216.141:4000/udp/225.1.8.22:8002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="北京国际" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="北京",北京国际
-http://115.171.216.141:4000/udp/225.1.8.131:8002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="北京影视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png?raw=true" group-title="北京",北京影视
-http://115.171.216.141:4000/udp/225.1.8.82:8000
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png?raw=true" group-title="北京",北京纪实科教
-http://218.1.217.213:9999/udp/239.45.1.14:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="北京生活" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E7%94%9F%E6%B4%BB.png?raw=true" group-title="北京",北京生活
-http://115.171.216.141:4000/udp/225.1.8.108:8002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png?raw=true" group-title="北京",北京财经
-http://115.171.216.141:4000/udp/225.1.8.106:8002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png?raw=true" group-title="北京",卡酷少儿
-http://218.1.217.213:9999/udp/239.45.0.8:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="新闻综合" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%8A%E8%A7%86%E6%96%B0%E9%97%BB.png?raw=true" group-title="上海",新闻综合
-http://180.165.26.49:6000/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="都市频道" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82.png?raw=true" group-title="上海",都市频道
-http://218.1.217.213:9999/udp/239.45.3.236:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东方影视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86.png?raw=true" group-title="上海",东方影视
-http://180.165.26.49:6000/tsfile/live/0001_19.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="第一财经" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png?raw=true" group-title="上海",第一财经
-http://218.1.217.213:9999/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="五星体育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png?raw=true" group-title="上海",五星体育
-http://218.1.217.213:9999/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="生活时尚" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png?raw=true" group-title="上海",生活时尚
-http://218.1.217.213:9999/udp/239.45.3.132:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="都市剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png?raw=true" group-title="上海",都市剧场
-http://218.1.217.213:9999/udp/239.45.3.136:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="欢笑剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png?raw=true" group-title="上海",欢笑剧场
-http://218.1.217.213:9999/udp/239.45.3.196:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png?raw=true" group-title="上海",哈哈炫动
-http://218.1.217.213:9999/udp/239.45.1.55:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="动漫秀场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png?raw=true" group-title="上海",动漫秀场
-http://218.1.217.213:9999/udp/239.45.3.134:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="法治天地" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png?raw=true" group-title="上海",法治天地
-http://218.1.217.213:9999/udp/239.45.1.46:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="游戏风云" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png?raw=true" group-title="上海",游戏风云
-http://218.1.217.213:9999/udp/239.45.3.131:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="金色频道" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png?raw=true" group-title="上海",金色频道
-http://218.1.217.213:9999/udp/239.45.1.118:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="百事通超级体育" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="上海",百事通超级体育
-http://218.1.217.213:9999/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="百事通4K" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="上海",百事通4K
-http://218.1.217.213:9999/udp/239.45.1.42:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="乐游" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B9%90%E6%B8%B8.png?raw=true" group-title="上海",乐游
-http://218.1.217.213:9999/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广东珠江频道" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png?raw=true" group-title="广东",广东珠江频道
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广东珠江" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png?raw=true" group-title="广东",广东珠江
-http://116.28.124.155:5000/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png?raw=true" group-title="广东",广东新闻
-http://116.28.124.155:5000/udp/239.77.0.173:5146
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png?raw=true" group-title="广东",广东民生
-http://116.28.124.155:5000/udp/239.77.0.225:5146
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png?raw=true" group-title="广东",广东体育频道
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png?raw=true" group-title="广东",广东体育
-http://116.28.124.155:5000/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广东经济科教" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E7%BB%8F%E6%B5%8E%E7%A7%91%E6%95%99.png?raw=true" group-title="广东",广东经济科教
-http://116.28.124.155:5000/udp/239.77.0.85:5146
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="大湾区卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png?raw=true" group-title="广东",大湾区卫视
-http://116.28.124.155:5000/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广东影视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png?raw=true" group-title="广东",广东影视
-http://116.28.124.155:5000/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广东少儿" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E5%B0%91%E5%84%BF.png?raw=true" group-title="广东",广东少儿
-http://116.28.124.155:5000/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png?raw=true" group-title="广东",嘉佳卡通
-http://116.28.124.155:5000/udp/239.77.0.179:5146
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%92%B1%E6%B1%9F%E9%83%BD%E5%B8%82.png?raw=true" group-title="浙江",浙江钱江高清
-http://123.159.36.95:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png?raw=true" group-title="浙江",浙江生活高清
-http://123.159.36.95:85/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E6%95%99%E7%A7%91%E5%BD%B1%E8%A7%86.png?raw=true" group-title="浙江",浙江教育高清
-http://123.159.36.95:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F%E4%BC%91%E9%97%B2.png?raw=true" group-title="浙江",浙江民生高清
-http://123.159.36.95:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png?raw=true" group-title="浙江",浙江新闻高清
-http://123.159.36.95:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="浙江",杭州综合高清
-http://123.159.36.95:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="快乐垂钓" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png?raw=true" group-title="湖南",快乐垂钓
-http://115.171.216.141:4000/udp/225.1.8.71:8002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南爱晚" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png?raw=true" group-title="湖南",湖南爱晚
-http://php.jdshipin.com:8880/iptv.php?id=hngg
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南都市" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png?raw=true" group-title="湖南",湖南都市
-http://php.jdshipin.com:8880/iptv.php?id=hnds
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南经视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png?raw=true" group-title="湖南",湖南经视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南教育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2.png?raw=true" group-title="湖南",湖南教育
-http://113.223.16.11:65000/udp/239.76.245.233:1234
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png?raw=true" group-title="湖南",湖南娱乐
-http://php.jdshipin.com:8880/iptv.php?id=hnyl
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南国际" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png?raw=true" group-title="湖南",湖南国际
-http://php.jdshipin.com:8880/iptv.php?id=hngj
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南电视剧" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png?raw=true" group-title="湖南",湖南电视剧
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南电影" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png?raw=true" group-title="湖南",湖南电影
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png?raw=true" group-title="湖南",金鹰纪实
-http://115.171.216.141:4000/udp/225.1.8.31:8156
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png?raw=true" group-title="湖南",金鹰卡通
-http://115.171.216.141:4000/udp/225.1.8.163:9252
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E6%96%B0%E9%97%BB.png?raw=true" group-title="山东",山东新闻
-http://182.46.196.149:6699/udp/239.21.1.140:5002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E7%94%9F%E6%B4%BB.png?raw=true" group-title="山东",山东生活
-http://182.46.196.149:6699/udp/239.21.1.175:5002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA.png?raw=true" group-title="山东",山东综艺
-http://182.46.196.149:6699/udp/239.21.1.177:5002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png?raw=true" group-title="山东",山东教育
-http://182.46.196.149:6699/udp/239.21.1.169:5002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2.png?raw=true" group-title="山东",山东体育休闲
-http://182.46.196.149:6699/udp/239.21.1.141:5002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85.png?raw=true" group-title="山东",山东文旅
-http://182.46.196.149:6699/udp/239.21.1.176:5002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E9%BD%90%E9%B2%81.png?raw=true" group-title="山东",山东齐鲁
-http://182.46.196.149:6699/udp/239.21.1.134:5002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E9%BD%90%E9%B2%81.png?raw=true" group-title="山东",山东少儿
-http://182.46.196.149:6699/udp/239.21.1.208:5002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E5%86%9C%E7%A7%91.png?raw=true" group-title="山东",山东农科
-http://182.46.196.149:6699/udp/239.21.1.183:5002
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82.png?raw=true" group-title="河南",河南都市
-http://115.63.83.48:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F.png?raw=true" group-title="河南",河南民生
-http://115.63.83.48:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E6%B3%95%E6%B2%BB.png?raw=true" group-title="河南",河南法治
-http://115.63.83.48:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png?raw=true" group-title="河南",河南电视剧
-http://115.63.83.48:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB.png?raw=true" group-title="河南",河南新闻
-http://115.63.83.48:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E4%B9%A1%E6%9D%91.png?raw=true" group-title="河南",河南乡村
-http://115.63.83.48:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1.png?raw=true" group-title="河南",河南公共
-http://115.63.83.48:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="凤凰卫视频道" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png?raw=true" group-title="港澳",凤凰卫视频道
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png?raw=true" group-title="港澳",凤凰卫视
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="凤凰资讯频道" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png?raw=true" group-title="港澳",凤凰资讯频道
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png?raw=true" group-title="港澳",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="凤凰香港" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="港澳",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="TVB娱乐新闻台" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" group-title="港澳",TVB娱乐新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/tvb%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png?raw=true" group-title="港澳",TVB亚洲武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="TVB星河" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/TVB%E6%98%9F%E6%B2%B3.png?raw=true" group-title="港澳",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="翡翠台北美版(TVB J1)" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/TVBJ1.png?raw=true" group-title="港澳",翡翠台北美版(TVB J1)
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="TVB Plus" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/TVBPlus.png?raw=true" group-title="港澳",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="无线新闻台" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" group-title="港澳",无线新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="千禧经典台" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0.png?raw=true" group-title="港澳",千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="翡翠台" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" group-title="港澳",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="华丽翡翠台" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" group-title="港澳",华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="重温经典" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png?raw=true" group-title="港澳",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="有线综合" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳",有线综合
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="澳视澳门" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png?raw=true" group-title="港澳",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="澳视卫星" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳",澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="CCTV1港澳版" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/CCTV1.png?raw=true" group-title="港澳",CCTV1港澳版
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="美亚电影" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1.png?raw=true" group-title="港澳",美亚电影
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="无线新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" group-title="港澳",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="明珠台" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png?raw=true" group-title="港澳",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="RTHK31" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/RTHK31.png?raw=true" group-title="港澳",RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="RTHK32" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/RTHK32.png?raw=true" group-title="港澳",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="VIUTV" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/viutv.png?raw=true" group-title="港澳",VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Astro AOD" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东方购物-1HD" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",东方购物-1HD
-http://218.1.217.213:9999/udp/239.45.3.74:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东方购物-2HD" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",东方购物-2HD
-http://218.1.217.213:9999/udp/239.45.3.75:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东方购物-3HD" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",东方购物-3HD
-http://218.1.217.213:9999/udp/239.45.3.207:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="央广购物" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",央广购物
-http://218.1.217.213:9999/udp/239.45.3.213:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="家家购物" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",家家购物
-http://218.1.217.213:9999/udp/239.45.3.179:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="快乐购物" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",快乐购物
-http://218.1.217.213:9999/udp/239.45.1.53:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="优购物" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",优购物
-http://218.1.217.213:9999/udp/239.45.1.114:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="好享购物" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",好享购物
-http://218.1.217.213:9999/udp/239.45.1.253:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="中央购物" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",中央购物
-http://218.1.217.213:9999/udp/239.45.3.79:5140
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="家有购物" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="购物",家有购物
-http://218.1.217.213:9999/udp/239.45.1.43:5140
+http://php.tech-miao.top/03卫视主线路.php?id=heilongjiang
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="四川卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",四川卫视
+http://php.tech-miao.top/03卫视主线路.php?id=sichuan
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="贵州卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",贵州卫视
+http://php.tech-miao.top/03卫视主线路.php?id=guizhou
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",广西卫视
+http://php.tech-miao.top/03卫视主线路.php?id=guangxi
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="云南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",云南卫视
+http://php.tech-miao.top/03卫视主线路.php?id=yunnan
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",甘肃卫视
+http://php.tech-miao.top/03卫视主线路.php?id=gansu
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",宁夏卫视
+http://php.tech-miao.top/03卫视主线路.php?id=ningxia
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",内蒙古卫视
+http://php.tech-miao.top/03卫视主线路.php?id=neimenggu
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="青海卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",青海卫视
+http://php.tech-miao.top/03卫视主线路.php?id=qinghai
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="西藏卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",西藏卫视
+http://php.tech-miao.top/03卫视主线路.php?id=xizang
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="新疆卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",新疆卫视
+http://php.tech-miao.top/03卫视主线路.php?id=xinjiang
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="兵团卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",兵团卫视
+http://php.tech-miao.top/03卫视主线路.php?id=bingtuan
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",东南卫视
+http://php.tech-miao.top/03卫视主线路.php?id=dongnan
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="江西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",江西卫视
+http://php.tech-miao.top/03卫视主线路.php?id=jiangxi
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="海南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",海南卫视
+http://php.tech-miao.top/03卫视主线路.php?id=hainan
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="三沙卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视",三沙卫视
+http://php.tech-miao.top/03卫视主线路.php?id=sansha
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="中国教育1" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png?raw=true" group-title="卫视",中国教育1
+http://php.tech-miao.top/03卫视主线路.php?id=jiaoyu1
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="中国教育2" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png?raw=true" group-title="卫视",中国教育2
+http://php.tech-miao.top/03卫视主线路.php?id=jiaoyu2
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="中国教育3" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B23%E5%8F%B0.png?raw=true" group-title="卫视",中国教育3
+http://php.tech-miao.top/03卫视主线路.php?id=jiaoyu3
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="中国教育4" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png?raw=true" group-title="卫视",中国教育4
+http://php.tech-miao.top/03卫视主线路.php?id=jiaoyu4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="北京卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",北京卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=beijing-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东方卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",东方卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=dongfang-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广东卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",广东卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=guangdong-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="深圳卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",深圳卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=shenzhen-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="江苏卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",江苏卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=jiangsu-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="浙江卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",浙江卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=zhejiang-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="安徽卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",安徽卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=anhui-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="天津卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",天津卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=tianjin-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="重庆卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",重庆卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=chongqing-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",湖南卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=hunan-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="湖北卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",湖北卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=hubei-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="河南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",河南卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=henan-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="河北卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",河北卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=hebei-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="山东卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",山东卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=shandong-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="山西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",山西卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=shanxi-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="陕西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",陕西卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=shaanxi-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",辽宁卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=liaoning-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="吉林卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",吉林卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=jilin-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",黑龙江卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=heilongjiang-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="四川卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",四川卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=sichuan-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="贵州卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",贵州卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=guizhou-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="广西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",广西卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=guangxi-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="云南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",云南卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=yunnan-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",甘肃卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=gansu-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",宁夏卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=ningxia-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",内蒙古卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=neimenggu-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="青海卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",青海卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=qinghai-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="西藏卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",西藏卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=xizang-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="新疆卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",新疆卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=xinjiang-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="兵团卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",兵团卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=bingtuan-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="东南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",东南卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=dongnan-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="江西卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",江西卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=jiangxi-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="海南卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",海南卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=hainan-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="三沙卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png?raw=true" group-title="卫视（备）",三沙卫视（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=sansha-bak
+#EXTINF:-1 tvg-chno="" tvg-id="1" tvg-name="中国教育1" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png?raw=true" group-title="卫视（备）",中国教育1（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=jiaoyu1-bak
+#EXTINF:-1 tvg-chno="" tvg-id="2" tvg-name="中国教育2" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png?raw=true" group-title="卫视（备）",中国教育2（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=jiaoyu2-bak
+#EXTINF:-1 tvg-chno="" tvg-id="3" tvg-name="中国教育3" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B23%E5%8F%B0.png?raw=true" group-title="卫视（备）",中国教育3（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=jiaoyu3-bak
+#EXTINF:-1 tvg-chno="" tvg-id="4" tvg-name="中国教育4" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png?raw=true" group-title="卫视（备）",中国教育4（备）
+http://php.tech-miao.top/04卫视备用线路.php?id=jiaoyu4-bak
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="凤凰中文" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",凤凰中文
+http://php.tech-miao.top/06港澳频道.php?id=ga-fhzw
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="凤凰资讯" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",凤凰资讯
+http://php.tech-miao.top/06港澳频道.php?id=ga-fhzx
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="凤凰香港" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",凤凰香港
+https://migu.188766.xyz/?migutoken=66457a0bb99c69b42e7c6b90daf69645&id=fhhk&pp=1
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="翡翠台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",翡翠台(线路1)
+http://php.tech-miao.top/06港澳频道.php?id=ga-feicui1
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="翡翠台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",翡翠台(线路2)
+http://php.tech-miao.top/06港澳频道.php?id=ga-feicui2
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="翡翠台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",翡翠台(线路3)
+http://php.tech-miao.top/06港澳频道.php?id=ga-feicui3
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="翡翠台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",翡翠台(线路4)
+http://php.tech-miao.top/06港澳频道.php?id=ga-feicui4
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="华丽翡翠台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",华丽翡翠台(线路1)
+http://php.tech-miao.top/06港澳频道.php?id=ga-tvbfc1
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="华丽翡翠台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",华丽翡翠台(线路2)
+http://php.tech-miao.top/06港澳频道.php?id=ga-tvbfc2
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="明珠台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",明珠台
+http://php.tech-miao.top/06港澳频道.php?id=ga-mingzhu1
+#EXTINF:-1 tvg-chno="" tvg-id="TVB" tvg-name="无线新闻" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",TVB无线新闻
+https://migu.188766.xyz/?migutoken=50dd095a9ae3d508bdeea45994c1c11d&id=hk_wxxw&type=dy
+#EXTINF:-1 tvg-chno="" tvg-id="Now" tvg-name="Now新闻台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",Now新闻台
+https://migu.188766.xyz/?migutoken=a2e3287a07412e47561b9298d029a244&id=hk_now&type=dy
+#EXTINF:-1 tvg-chno="" tvg-id="TVB" tvg-name="TVB星河" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",TVB星河
+http://php.tech-miao.top/06港澳频道.php?id=ga-xinghe
+#EXTINF:-1 tvg-chno="" tvg-id="TVB" tvg-name="TVB功夫" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",TVB功夫
+https://migu.188766.xyz/?migutoken=220dcbf222afe15f313ae1c6fb995c43&id=hk_yzwx&type=dy
+#EXTINF:-1 tvg-chno="" tvg-id="J1" tvg-name="J1" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",TVB J1
+http://php.tech-miao.top/06港澳频道.php?id=ga-tvbj1
+#EXTINF:-1 tvg-chno="" tvg-id="TVB" tvg-name="TVB+" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",TVB Plus
+https://migu.188766.xyz/?migutoken=ced25d4c6e3c6cc594b75dd6ff206622&id=hk_tvbp&type=dy
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="千禧经典台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",千禧经典台
+http://php.tech-miao.top/06港澳频道.php?id=ga-qxjdt
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="美亚电影台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",美亚电影台
+http://php.tech-miao.top/06港澳频道.php?id=ga-meiyady
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="天映频道" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",天映频道
+http://php.tech-miao.top/06港澳频道.php?id=ga-typd
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="天映经典" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",天映经典
+http://php.tech-miao.top/06港澳频道.php?id=ga-tyjd
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="澳视澳门" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",澳视澳门
+http://php.tech-miao.top/06港澳频道.php?id=ga-asam
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="澳视葡语" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",澳视葡语
+http://php.tech-miao.top/06港澳频道.php?id=ga-aspy
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="澳门咨讯" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",澳门咨讯
+http://php.tech-miao.top/06港澳频道.php?id=ga-amzixun
+#EXTINF:-1 tvg-chno="" tvg-id="Macau" tvg-name="澳门Macau" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",澳门Macau
+http://php.tech-miao.top/06港澳频道.php?id=ga-ammacau
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="莲花卫视" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",莲花卫视
+http://php.tech-miao.top/06港澳频道.php?id=ga-lianhua
+#EXTINF:-1 tvg-chno="" tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",ViuTV(线路1)
+http://php.tech-miao.top/06港澳频道.php?id=ga-viu1
+#EXTINF:-1 tvg-chno="" tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",ViuTV(线路2)
+http://php.tech-miao.top/06港澳频道.php?id=ga-viu2
+#EXTINF:-1 tvg-chno="" tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",ViuTV(线路3)
+http://php.tech-miao.top/06港澳频道.php?id=ga-viu3
+#EXTINF:-1 tvg-chno="" tvg-id="HOY77" tvg-name="HOY77" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",HOY77
+http://php.tech-miao.top/06港澳频道.php?id=ga-hoy2
+#EXTINF:-1 tvg-chno="" tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",RTHK31(线路1)
+http://php.tech-miao.top/06港澳频道.php?id=ga-rthk311
+#EXTINF:-1 tvg-chno="" tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",RTHK31(线路2)
+http://php.tech-miao.top/06港澳频道.php?id=ga-rthk312
+#EXTINF:-1 tvg-chno="" tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",RTHK32(线路1)
+http://php.tech-miao.top/06港澳频道.php?id=ga-rthk321
+#EXTINF:-1 tvg-chno="" tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",RTHK32(线路2)
+http://php.tech-miao.top/06港澳频道.php?id=ga-rthk322
+#EXTINF:-1 tvg-chno="" tvg-id="Astro" tvg-name="Astro欢喜台" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",Astro欢喜台
+http://php.tech-miao.top/06港澳频道.php?id=ga-astrohx
+#EXTINF:-1 tvg-chno="" tvg-id="AstroAEC" tvg-name="Astro AEC" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",Astro AEC
+http://php.tech-miao.top/06港澳频道.php?id=ga-astroaec
+#EXTINF:-1 tvg-chno="" tvg-id="AstroAOD" tvg-name="Astro AOD" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="港澳频道",Astro AOD
+http://php.tech-miao.top/06港澳频道.php?id=ga-astroaod
+#EXTINF:-1 tvg-chno="" tvg-id="bj-tiyuxiuxian" tvg-name="北京体育休闲" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png?raw=true" group-title="北京",北京体育休闲
+http://php.tech-miao.top/05地方频道.php?id=bj-tiyuxiuxian
+#EXTINF:-1 tvg-chno="" tvg-id="bj-guoji" tvg-name="北京国际" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="北京",北京国际
+http://php.tech-miao.top/05地方频道.php?id=bj-guoji
+#EXTINF:-1 tvg-chno="" tvg-id="bj-yingshi" tvg-name="北京影视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png?raw=true" group-title="北京",北京影视
+http://php.tech-miao.top/05地方频道.php?id=bj-yingshi
+#EXTINF:-1 tvg-chno="" tvg-id="bj-wenyi" tvg-name="北京文艺" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA.png?raw=true" group-title="北京",北京文艺
+http://php.tech-miao.top/05地方频道.php?id=bj-wenyi
+#EXTINF:-1 tvg-chno="" tvg-id="bj-xinwen" tvg-name="北京新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png?raw=true" group-title="北京",北京新闻
+http://php.tech-miao.top/05地方频道.php?id=bj-xinwen
+#EXTINF:-1 tvg-chno="" tvg-id="bj-shenghuo" tvg-name="北京生活" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E7%94%9F%E6%B4%BB.png?raw=true" group-title="北京",北京生活
+http://php.tech-miao.top/05地方频道.php?id=bj-shenghuo
+#EXTINF:-1 tvg-chno="" tvg-id="bj-jishikejiao" tvg-name="北京纪实科教" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png?raw=true" group-title="北京",北京纪实科教
+http://php.tech-miao.top/05地方频道.php?id=bj-jishikejiao
+#EXTINF:-1 tvg-chno="" tvg-id="bj-caijing" tvg-name="北京财经" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png?raw=true" group-title="北京",北京财经
+http://php.tech-miao.top/05地方频道.php?id=bj-caijing
+#EXTINF:-1 tvg-chno="" tvg-id="bj-qingnian" tvg-name="北京青年" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8C%97%E4%BA%AC%E9%9D%92%E5%B9%B4.png?raw=true" group-title="北京",北京青年
+http://php.tech-miao.top/05地方频道.php?id=bj-qingnian
+#EXTINF:-1 tvg-chno="" tvg-id="bj-kaku" tvg-name="卡酷少儿" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png?raw=true" group-title="北京",卡酷少儿
+http://php.tech-miao.top/05地方频道.php?id=bj-kaku
+#EXTINF:-1 tvg-chno="" tvg-id="sh-dongfangys" tvg-name="上海东方影视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86.png" group-title="上海",上海东方影视
+http://php.tech-miao.top/05地方频道.php?id=sh-dongfangys
+#EXTINF:-1 tvg-chno="" tvg-id="sh-wuxingtiyu" tvg-name="上海五星体育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="上海",上海五星体育
+http://php.tech-miao.top/05地方频道.php?id=sh-wuxingtiyu
+#EXTINF:-1 tvg-chno="" tvg-id="sh-xinwen" tvg-name="上海新闻综合" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%8A%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="上海",上海新闻综合
+http://php.tech-miao.top/05地方频道.php?id=sh-xinwen
+#EXTINF:-1 tvg-chno="" tvg-id="sh-huanxiaojuchang" tvg-name="上海欢笑剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="上海",上海欢笑剧场
+http://php.tech-miao.top/05地方频道.php?id=sh-huanxiaojuchang
+#EXTINF:-1 tvg-chno="" tvg-id="sh-shenghuoshishang" tvg-name="上海生活时尚" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="上海",上海生活时尚
+http://php.tech-miao.top/05地方频道.php?id=sh-shenghuoshishang
+#EXTINF:-1 tvg-chno="" tvg-id="sh-diyicaijing" tvg-name="上海第一财经" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png?raw=true" group-title="上海",上海第一财经
+http://php.tech-miao.top/05地方频道.php?id=sh-diyicaijing
+#EXTINF:-1 tvg-chno="" tvg-id="sh-dushijuchang" tvg-name="上海都市剧场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="上海",上海都市剧场
+http://php.tech-miao.top/05地方频道.php?id=sh-dushijuchang
+#EXTINF:-1 tvg-chno="" tvg-id="sh-dushi" tvg-name="上海都市频道" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82.png" group-title="上海",上海都市频道
+http://php.tech-miao.top/05地方频道.php?id=sh-dushi
+#EXTINF:-1 tvg-chno="" tvg-id="sh-leyou" tvg-name="乐游" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B9%90%E6%B8%B8.png?raw=true" group-title="上海",乐游
+http://php.tech-miao.top/05地方频道.php?id=sh-leyou
+#EXTINF:-1 tvg-chno="" tvg-id="sh-dongmanxiuchang" tvg-name="动漫秀场" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png?raw=true" group-title="上海",动漫秀场
+http://php.tech-miao.top/05地方频道.php?id=sh-dongmanxiuchang
+#EXTINF:-1 tvg-chno="" tvg-id="sh-hahaxuandong" tvg-name="哈哈炫动" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png?raw=true" group-title="上海",哈哈炫动
+http://php.tech-miao.top/05地方频道.php?id=sh-hahaxuandong
+#EXTINF:-1 tvg-chno="" tvg-id="sh-fazhitiandi" tvg-name="法治天地" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png?raw=true" group-title="上海",法治天地
+http://php.tech-miao.top/05地方频道.php?id=sh-fazhitiandi
+#EXTINF:-1 tvg-chno="" tvg-id="sh-youxifengyun" tvg-name="游戏风云" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png?raw=true" group-title="上海",游戏风云
+http://php.tech-miao.top/05地方频道.php?id=sh-youxifengyun
+#EXTINF:-1 tvg-chno="" tvg-id="sh-bst-4k" tvg-name="百事通4K" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="上海",百事通4K
+http://php.tech-miao.top/05地方频道.php?id=sh-bst-4k
+#EXTINF:-1 tvg-chno="" tvg-id="sh-jinse" tvg-name="金色学堂" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png?raw=true" group-title="上海",金色学堂
+http://php.tech-miao.top/05地方频道.php?id=sh-jinse
+#EXTINF:-1 tvg-chno="" tvg-id="gd-jiajiakt" tvg-name="嘉佳卡通" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png?raw=true" group-title="广东",嘉佳卡通
+http://php.tech-miao.top/05地方频道.php?id=gd-jiajiakt
+#EXTINF:-1 tvg-chno="" tvg-id="gd-dawanqu" tvg-name="大湾区卫视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png?raw=true" group-title="广东",大湾区卫视
+http://php.tech-miao.top/05地方频道.php?id=gd-dawanqu
+#EXTINF:-1 tvg-chno="" tvg-id="gd-tiyu-bak" tvg-name="广东体育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png?raw=true" group-title="广东",广东体育
+http://php.tech-miao.top/05地方频道.php?id=gd-tiyu-bak
+#EXTINF:-1 tvg-chno="" tvg-id="gd-shaoer" tvg-name="广东少儿" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E5%B0%91%E5%84%BF.png?raw=true" group-title="广东",广东少儿
+http://php.tech-miao.top/05地方频道.php?id=gd-shaoer
+#EXTINF:-1 tvg-chno="" tvg-id="gd-yingshi" tvg-name="广东影视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png?raw=true" group-title="广东",广东影视
+http://php.tech-miao.top/05地方频道.php?id=gd-yingshi
+#EXTINF:-1 tvg-chno="" tvg-id="gd-xinwen" tvg-name="广东新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png?raw=true" group-title="广东",广东新闻
+http://php.tech-miao.top/05地方频道.php?id=gd-xinwen
+#EXTINF:-1 tvg-chno="" tvg-id="gd-minsheng" tvg-name="广东民生" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png?raw=true" group-title="广东",广东民生
+http://php.tech-miao.top/05地方频道.php?id=gd-minsheng
+#EXTINF:-1 tvg-chno="" tvg-id="gd-zhujiang" tvg-name="广东珠江" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png?raw=true" group-title="广东",广东珠江
+http://php.tech-miao.top/05地方频道.php?id=gd-zhujiang
+#EXTINF:-1 tvg-chno="" tvg-id="gd-jingjikejiao" tvg-name="广东经济科教" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B9%BF%E4%B8%9C%E7%BB%8F%E6%B5%8E%E7%A7%91%E6%95%99.png?raw=true" group-title="广东",广东经济科教
+http://php.tech-miao.top/05地方频道.php?id=gd-jingjikejiao
+#EXTINF:-1 tvg-chno="" tvg-id="js-ty" tvg-name="江苏体育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E4%BC%91%E9%97%B2%E4%BD%93%E8%82%B2.png" group-title="江苏",江苏体育
+http://php.tech-miao.top/05地方频道.php?id=js-ty
+#EXTINF:-1 tvg-chno="" tvg-id="js-katong" tvg-name="江苏卡通" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="江苏",江苏卡通
+http://php.tech-miao.top/05地方频道.php?id=js-katong
+#EXTINF:-1 tvg-chno="" tvg-id="js-guoji" tvg-name="江苏国际" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85.png?raw=true" group-title="江苏",江苏国际
+http://php.tech-miao.top/05地方频道.php?id=js-guoji
+#EXTINF:-1 tvg-chno="" tvg-id="js-chengshi" tvg-name="江苏城市" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82.png?raw=true" group-title="江苏",江苏城市
+http://php.tech-miao.top/05地方频道.php?id=js-chengshi
+#EXTINF:-1 tvg-chno="" tvg-id="js-yingshi" tvg-name="江苏影视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86.png?raw=true" group-title="江苏",江苏影视
+http://php.tech-miao.top/05地方频道.php?id=js-yingshi
+#EXTINF:-1 tvg-chno="" tvg-id="js-jiaoyu" tvg-name="江苏教育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="江苏",江苏教育
+http://php.tech-miao.top/05地方频道.php?id=js-jiaoyu
+#EXTINF:-1 tvg-chno="" tvg-id="js-xinwen" tvg-name="江苏新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB.png" group-title="江苏",江苏新闻
+http://php.tech-miao.top/05地方频道.php?id=js-xinwen
+#EXTINF:-1 tvg-chno="" tvg-id="js-zongyi" tvg-name="江苏综艺" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA.png?raw=true" group-title="江苏",江苏综艺
+http://php.tech-miao.top/05地方频道.php?id=js-zongyi
+#EXTINF:-1 tvg-chno="" tvg-id="zj-hz-daoshi" tvg-name="杭州导视" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="浙江",杭州导视
+http://php.tech-miao.top/05地方频道.php?id=zj-hz-daoshi
+#EXTINF:-1 tvg-chno="" tvg-id="zj-hz-yingshi" tvg-name="杭州影视" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="浙江",杭州影视
+http://php.tech-miao.top/05地方频道.php?id=zj-hz-yingshi
+#EXTINF:-1 tvg-chno="" tvg-id="zj-hz-mingzhu" tvg-name="杭州明珠" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="浙江",杭州明珠
+http://php.tech-miao.top/05地方频道.php?id=zj-hz-mingzhu
+#EXTINF:-1 tvg-chno="" tvg-id="zj-hz-shenghuo" tvg-name="杭州生活" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="浙江",杭州生活
+http://php.tech-miao.top/05地方频道.php?id=zj-hz-shenghuo
+#EXTINF:-1 tvg-chno="" tvg-id="zj-hz-zonghe" tvg-name="杭州综合" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="浙江",杭州综合
+http://php.tech-miao.top/05地方频道.php?id=zj-hz-zonghe
+#EXTINF:-1 tvg-chno="" tvg-id="zj-hz-qingshao" tvg-name="杭州青少" tvg-logo="http://m3u.tech-miao.top/placeholder.png" group-title="浙江",杭州青少
+http://php.tech-miao.top/05地方频道.php?id=zj-hz-qingshao
+#EXTINF:-1 tvg-chno="" tvg-id="zj-shaoer" tvg-name="浙江少儿" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png?raw=true" group-title="浙江",浙江少儿
+http://php.tech-miao.top/05地方频道.php?id=zj-shaoer
+#EXTINF:-1 tvg-chno="" tvg-id="zj-jiaoyu" tvg-name="浙江教育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E6%95%99%E7%A7%91%E5%BD%B1%E8%A7%86.png" group-title="浙江",浙江教育
+http://php.tech-miao.top/05地方频道.php?id=zj-jiaoyu
+#EXTINF:-1 tvg-chno="" tvg-id="zj-xinwen" tvg-name="浙江新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png?raw=true" group-title="浙江",浙江新闻
+http://php.tech-miao.top/05地方频道.php?id=zj-xinwen
+#EXTINF:-1 tvg-chno="" tvg-id="zj-minsheng" tvg-name="浙江民生" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F%E4%BC%91%E9%97%B2.png" group-title="浙江",浙江民生
+http://php.tech-miao.top/05地方频道.php?id=zj-minsheng
+#EXTINF:-1 tvg-chno="" tvg-id="zj-jilu" tvg-name="浙江纪录" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E4%B9%8B%E6%B1%9F%E7%BA%AA%E5%BD%95.png" group-title="浙江",浙江纪录
+http://php.tech-miao.top/05地方频道.php?id=zj-jilu
+#EXTINF:-1 tvg-chno="" tvg-id="zj-jingji" tvg-name="浙江经济" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="浙江",浙江经济
+http://php.tech-miao.top/05地方频道.php?id=zj-jingji
+#EXTINF:-1 tvg-chno="" tvg-id="zj-qianjiang" tvg-name="浙江钱江" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%92%B1%E6%B1%9F%E9%83%BD%E5%B8%82.png" group-title="浙江",浙江钱江
+http://php.tech-miao.top/05地方频道.php?id=zj-qianjiang
+#EXTINF:-1 tvg-chno="" tvg-id="hn-pingyu" tvg-name="先锋乒羽" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD.png?raw=true" group-title="湖南",先锋乒羽
+http://php.tech-miao.top/05地方频道.php?id=hn-pingyu
+#EXTINF:-1 tvg-chno="" tvg-id="hn-chuidiao" tvg-name="快乐垂钓" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png?raw=true" group-title="湖南",快乐垂钓
+http://php.tech-miao.top/05地方频道.php?id=hn-chuidiao
+#EXTINF:-1 tvg-chno="" tvg-id="hn-guoji" tvg-name="湖南国际" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png?raw=true" group-title="湖南",湖南国际
+http://php.tech-miao.top/05地方频道.php?id=hn-guoji
+#EXTINF:-1 tvg-chno="" tvg-id="hn-yule" tvg-name="湖南娱乐" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png?raw=true" group-title="湖南",湖南娱乐
+http://php.tech-miao.top/05地方频道.php?id=hn-yule
+#EXTINF:-1 tvg-chno="" tvg-id="hn-jiaoyu" tvg-name="湖南教育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2.png?raw=true" group-title="湖南",湖南教育
+http://php.tech-miao.top/05地方频道.php?id=hn-jiaoyu
+#EXTINF:-1 tvg-chno="" tvg-id="hn-aiwan" tvg-name="湖南爱晚" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png?raw=true" group-title="湖南",湖南爱晚
+http://php.tech-miao.top/05地方频道.php?id=hn-aiwan
+#EXTINF:-1 tvg-chno="" tvg-id="hn-dianying" tvg-name="湖南电影" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png?raw=true" group-title="湖南",湖南电影
+http://php.tech-miao.top/05地方频道.php?id=hn-dianying
+#EXTINF:-1 tvg-chno="" tvg-id="hn-dsj" tvg-name="湖南电视剧" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png?raw=true" group-title="湖南",湖南电视剧
+http://php.tech-miao.top/05地方频道.php?id=hn-dsj
+#EXTINF:-1 tvg-chno="" tvg-id="hn-jingshi" tvg-name="湖南经视" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png?raw=true" group-title="湖南",湖南经视
+http://php.tech-miao.top/05地方频道.php?id=hn-jingshi
+#EXTINF:-1 tvg-chno="" tvg-id="hn-dushi" tvg-name="湖南都市" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png?raw=true" group-title="湖南",湖南都市
+http://php.tech-miao.top/05地方频道.php?id=hn-dushi
+#EXTINF:-1 tvg-chno="" tvg-id="hn-cha" tvg-name="茶频道" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E8%8C%B6.png" group-title="湖南",茶频道
+http://php.tech-miao.top/05地方频道.php?id=hn-cha
+#EXTINF:-1 tvg-chno="" tvg-id="hn-jinying-katong" tvg-name="金鹰卡通" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png?raw=true" group-title="湖南",金鹰卡通
+http://php.tech-miao.top/05地方频道.php?id=hn-jinying-katong
+#EXTINF:-1 tvg-chno="" tvg-id="hn-jinying-jishi" tvg-name="金鹰纪实" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png?raw=true" group-title="湖南",金鹰纪实
+http://php.tech-miao.top/05地方频道.php?id=hn-jinying-jishi
+#EXTINF:-1 tvg-chno="" tvg-id="sd-tyxx" tvg-name="山东体育休闲" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="山东",山东体育休闲
+http://php.tech-miao.top/05地方频道.php?id=sd-tyxx
+#EXTINF:-1 tvg-chno="" tvg-id="sd-nongke" tvg-name="山东农科" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E5%86%9C%E7%A7%91.png?raw=true" group-title="山东",山东农科
+http://php.tech-miao.top/05地方频道.php?id=sd-nongke
+#EXTINF:-1 tvg-chno="" tvg-id="sd-shaoer" tvg-name="山东少儿" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E5%B0%91%E5%84%BF.png?raw=true" group-title="山东",山东少儿
+http://php.tech-miao.top/05地方频道.php?id=sd-shaoer
+#EXTINF:-1 tvg-chno="" tvg-id="sd-jiaoyu" tvg-name="山东教育" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png?raw=true" group-title="山东",山东教育
+http://php.tech-miao.top/05地方频道.php?id=sd-jiaoyu
+#EXTINF:-1 tvg-chno="" tvg-id="sd-wenlv" tvg-name="山东文旅" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85.png?raw=true" group-title="山东",山东文旅
+http://php.tech-miao.top/05地方频道.php?id=sd-wenlv
+#EXTINF:-1 tvg-chno="" tvg-id="sd-xinwen" tvg-name="山东新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E6%96%B0%E9%97%BB.png?raw=true" group-title="山东",山东新闻
+http://php.tech-miao.top/05地方频道.php?id=sd-xinwen
+#EXTINF:-1 tvg-chno="" tvg-id="sd-shenghuo" tvg-name="山东生活" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E7%94%9F%E6%B4%BB.png?raw=true" group-title="山东",山东生活
+http://php.tech-miao.top/05地方频道.php?id=sd-shenghuo
+#EXTINF:-1 tvg-chno="" tvg-id="sd-zongyi" tvg-name="山东综艺" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA.png?raw=true" group-title="山东",山东综艺
+http://php.tech-miao.top/05地方频道.php?id=sd-zongyi
+#EXTINF:-1 tvg-chno="" tvg-id="sd-qilu" tvg-name="山东齐鲁" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E5%B1%B1%E4%B8%9C%E9%BD%90%E9%B2%81.png?raw=true" group-title="山东",山东齐鲁
+http://php.tech-miao.top/05地方频道.php?id=sd-qilu
+#EXTINF:-1 tvg-chno="" tvg-id="hen-xiangcun" tvg-name="河南乡村频道" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E4%B9%A1%E6%9D%91.png" group-title="河南",河南乡村频道
+http://php.tech-miao.top/05地方频道.php?id=hen-xiangcun
+#EXTINF:-1 tvg-chno="" tvg-id="hen-gonggong" tvg-name="河南公共" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1.png?raw=true" group-title="河南",河南公共
+http://php.tech-miao.top/05地方频道.php?id=hen-gonggong
+#EXTINF:-1 tvg-chno="" tvg-id="hen-wenwu" tvg-name="河南文物宝库" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="河南",河南文物宝库
+http://php.tech-miao.top/05地方频道.php?id=hen-wenwu
+#EXTINF:-1 tvg-chno="" tvg-id="hen-xinwen" tvg-name="河南新闻" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB.png?raw=true" group-title="河南",河南新闻
+http://php.tech-miao.top/05地方频道.php?id=hen-xinwen
+#EXTINF:-1 tvg-chno="" tvg-id="hen-liyuan" tvg-name="河南梨园频道" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E6%A2%A8%E5%9B%AD.png" group-title="河南",河南梨园频道
+http://php.tech-miao.top/05地方频道.php?id=hen-liyuan
+#EXTINF:-1 tvg-chno="" tvg-id="hen-huanteng" tvg-name="河南欢腾购物" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9.png" group-title="河南",河南欢腾购物
+http://php.tech-miao.top/05地方频道.php?id=hen-huanteng
+#EXTINF:-1 tvg-chno="" tvg-id="hen-wushu" tvg-name="河南武术世界" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="河南",河南武术世界
+http://php.tech-miao.top/05地方频道.php?id=hen-wushu
+#EXTINF:-1 tvg-chno="" tvg-id="hen-minsheng" tvg-name="河南民生" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F.png?raw=true" group-title="河南",河南民生
+http://php.tech-miao.top/05地方频道.php?id=hen-minsheng
+#EXTINF:-1 tvg-chno="" tvg-id="hen-fazhi" tvg-name="河南法治" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E6%B3%95%E6%B2%BB.png?raw=true" group-title="河南",河南法治
+http://php.tech-miao.top/05地方频道.php?id=hen-fazhi
+#EXTINF:-1 tvg-chno="" tvg-id="hen-dsj" tvg-name="河南电视剧" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png?raw=true" group-title="河南",河南电视剧
+http://php.tech-miao.top/05地方频道.php?id=hen-dsj
+#EXTINF:-1 tvg-chno="" tvg-id="hen-dushi" tvg-name="河南都市" tvg-logo="https://github.com/jasperxxx4/live-fanmingming/blob/main/tv/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82.png?raw=true" group-title="河南",河南都市
+http://php.tech-miao.top/05地方频道.php?id=hen-dushi
