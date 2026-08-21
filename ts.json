@@ -1,0 +1,194 @@
+//      >>> 当前时间是：2026-08-21 12:00:20 <<<
+//     关注微信公众号【太太太硬了】有惊喜哦！！！
+
+//     当前接口：http://43.138.212.149:8866/api.json
+{
+    "wallpaper": "https://wp.upx8.com/api.php",
+    "spider": "http://43.138.212.149:8866/spider.jar",
+    "sites": [
+        {
+            "key": "芒果",
+            "name": "芒果",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/api/drpy2.min.js",
+            "ext": "http://43.138.212.149:8866/js/芒果.js"
+        },
+        {
+            "key": "芒果视频",
+            "name": "芒",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/js/drpy2.min.js",
+            "ext": "http://43.138.212.149:8866/js/芒果视频.js"
+        },
+        {
+            "key": "腾讯",
+            "name": "腾讯",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/api/drpy2.min.js",
+            "ext": "http://43.138.212.149:8866/js/腾讯.js"
+        },
+        {
+            "key": "腾讯视频",
+            "name": "腾",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/js/drpy2.min.js",
+            "ext": "http://43.138.212.149:8866/js/腾讯视频.js"
+        },
+        {
+            "key": "优酷",
+            "name": "优酷",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/api/drpy2.min.js",
+            "ext": "http://43.138.212.149:8866/js/优酷.js"
+        },
+        {
+            "key": "优酷视频",
+            "name": "优",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/js/drpy2.min.js",
+            "ext": "http://43.138.212.149:8866/js/优酷视频.js"
+        },
+        {
+            "key": "奇艺",
+            "name": "奇艺",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/api/drpy2.min.js",
+            "ext": "http://43.138.212.149:8866/js/奇艺.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "奇",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/js/drpy2.min.js",
+            "ext": "http://43.138.212.149:8866/js/奇艺视频.js"
+        },
+        {
+            "key": "py_金牌",
+            "name": "金牌ᵖʸ",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/py/金牌影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": {
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
+            }
+        },
+        {
+            "key": "py_华数",
+            "name": "华数ᵖʸ",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/py/华数.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_独播库",
+            "name": "独播ᵖʸ",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/py/独播库.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "Cat_聚合短剧",
+            "name": " 聚合ᶜᵃᵗ丨短剧",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/open/duanju_juhe.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "Cat_百度短剧",
+            "name": " 百度ᶜᵃᵗ丨短剧",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/open/baidu_dj.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "py_哔哩",
+            "name": "哔哩ᵖʸ｜直播",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/py/哔哩直播.py"
+        },
+        {
+            "key": "cat布谷音乐",
+            "name": "音乐ᶜᵃᵗ",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/js/布谷音乐.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        },
+        {
+            "key": "Cat_喜马拉雅",
+            "name": "听书ᶜᵃᵗ",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/open/ximalaya_ting.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "Cat_梨园戏",
+            "name": "戏曲ᶜᵃᵗ",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/open/liyuan_xi.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "Cat_聚合儿歌",
+            "name": "儿歌ᶜᵃᵗ",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/open/erge_juhe.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "Cat_聚合知识",
+            "name": "知识ᶜᵃᵗ",
+            "type": 3,
+            "api": "http://43.138.212.149:8866/open/zhishi_juhe.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "晴天",
+            "name": "备用",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.138.212.149:8877/api.php/app/"
+        }
+    ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "http://43.138.212.149:8866/lives/34202007.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+    "parses": []
+}

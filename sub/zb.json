@@ -1,18 +1,19 @@
 [
-    { "name": "音乐", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/音乐.txt"}, 
-    
-    { "name": "歌星MV", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/歌星MV.txt"},
-     
-    { "name": "DJ音乐", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/DJ音乐.txt"},
-
-    { "name": "内网组播", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/BiLI.js"},
-    { "name": "移动源1", "url": "https://ghfast.top/https://github.com/wlcmc1972/tvbox/blob/main/tv/live1.txt"},
-    { "name": "广西移动", "url": "https://ghfast.top/https://github.com/Healer-sys/Home/blob/main/iptv/gx.m3u"},
-    { "name": "美剧1", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/ustv1.txt"},
-    { "name": "美剧2", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/ustv2.txt"},
-    { "name": "美剧3", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/ustv3.txt"},
-    { "name": "美剧4", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/ustv4.txt"},
-    { "name": "美剧5", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/ustv5.txt"},
-    { "name": "广场舞", "url": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/广场舞.txt"},
-    {"name":"网络电台","url":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/网络电台.txt"}
+    { "name": "好朋友电影", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/好朋友电影.txt"},
+    { "name": "美剧1", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/ustv1.txt"},
+    { "name": "美剧2", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/ustv2.txt"},
+    { "name": "美剧3", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/ustv3.txt"},
+    { "name": "美剧4", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/ustv4.txt"},
+    { "name": "美剧5", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/ustv5.txt"},
+    { "name": "一起看", "url": "https://gh-proxy.org/https://github.com/qingtingjjjjjjj/iptv-auto-update/blob/main/myq.txt"},
+    { "name": "广场舞", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/广场舞.txt"},
+    { "name": "歌星MV", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/歌星MV.txt"},
+    { "name": "DJ音乐", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/DJ音乐.txt"},
+    {"name": "咪咕TV直播","url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u"},
+    { "name": "涛涛TV", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"},
+    { "name": "内网组播", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/BiLI.js"},
+    { "name": "移动源1", "url": "https://gh-proxy.org/https://github.com/wlcmc1972/tvbox/blob/main/tv/live1.txt"},
+    { "name": "广西移动", "url": "https://gh-proxy.org/https://github.com/Healer-sys/Home/blob/main/iptv/gx.m3u"},
+    { "name": "广西移动2", "url": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/gx1.m3u"},
+    {"name":"网络电台","url":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/网络电台.txt"}
 ]
